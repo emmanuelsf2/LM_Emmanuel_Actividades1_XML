@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href=""?>
+<LaLiga>
+    <Equipo>Real Madrid</Equipo>
+    <Entrenador>Carlo Ancelotti</Entrenador>
+    <Jugadores>
+        <Jugador>
+            <Nombre>Kilian Mbappé</Nombre>
+            <LugarNacimiento>París, Francia</LugarNacimiento>
+            <AñoNacimiento>1998</AñoNacimiento>
+            <Altura>1.78 m</Altura>
+            <Peso>75 kg</Peso>
+        </Jugador>
+        <Jugador>
+            <Nombre>Vinicius JR</Nombre>
+            <LugarNacimiento>Río de Janeiro, Brasil</LugarNacimiento>
+            <AñoNacimiento>2000</AñoNacimiento>
+            <Altura>1.77 m</Altura>
+            <Peso>73 kg</Peso>
+        </Jugador>
+        <Jugador>
+            <Nombre>Jude Bellingham</Nombre>
+            <LugarNacimiento>Stourbridge, Reino Unido</LugarNacimiento>
+            <AñoNacimiento>2003</AñoNacimiento>
+            <Altura>1.86 m</Altura>
+            <Peso>75 kg</Peso>
+        </Jugador>
+        <Jugador>
+            <Nombre>Arda Güler</Nombre>
+            <LugarNacimiento>Altindag, Turquía</LugarNacimiento>
+            <AñoNacimiento>2005</AñoNacimiento>
+            <Altura>1.76 m</Altura>
+            <Peso>70 kg</Peso>
+        </Jugador>
+        <Jugador>
+            <Nombre>Lucas Vázquez</Nombre>
+            <LugarNacimiento>La Coruña, España</LugarNacimiento>
+            <AñoNacimiento>1991</AñoNacimiento>
+            <Altura>1.73 m</Altura>
+            <Peso>70 kg</Peso>
+        </Jugador>
+    </Jugadores>
+    <Campo>Santiago Bernabéu</Campo>
+</LaLiga>

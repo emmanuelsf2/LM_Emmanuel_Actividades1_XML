@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Ejercicio4.css"?>
+<Caratula>
+    <Car>
+    <Actores>
+        <Actor>
+            <Nombre>Ewan</Nombre>
+            <Apellido>MCGREGOR</Apellido>
+        </Actor>
+        <Actor>
+            <Nombre>Albert</Nombre>
+            <Apellido>FINNEY</Apellido>
+        </Actor>
+        <Actor>
+            <Nombre>Billy</Nombre>
+            <Apellido>CRUDUP</Apellido>
+        </Actor>
+        <Actor>
+            <Nombre>Jessica</Nombre>
+            <Apellido>LANGE</Apellido>
+        </Actor>
+    </Actores>
+    <Cont>
+    <Peli>
+        <Titulo>Una película de TIM BURTON</Titulo>
+    </Peli>
+    <Descripcion>
+        <Desc>UNA AVENTURA TAN GRANDE COMO LA VIDA MISMA</Desc>
+    </Descripcion>
+    </Cont>
+    </Car>
+</Caratula>

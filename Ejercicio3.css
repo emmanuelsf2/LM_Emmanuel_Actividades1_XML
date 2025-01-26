@@ -1,0 +1,73 @@
+CDMusica
+{
+    margin: 20px;
+    background-color: antiquewhite;
+}
+
+Contenedor
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+Detalles
+{
+    display: flex;
+    flex-direction: row;
+}
+
+Info
+{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding: 2px;
+}
+
+Info2
+{
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+}
+
+Canciones
+{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+Cancion
+{
+    padding: 5px;
+    background-color: rgb(252, 218, 173);
+}
+
+Cancion2
+{
+    padding: 5px;
+}
+
+Portada
+{
+    display: flex;
+}
+
+URL
+{
+    border: 1px solid black;
+    background-image: url(/Actividades1-UT4/61aUVeqtjzL._UF894\,1000_QL80_.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 184px;
+    height: 169px;
+    margin: 10px;
+}
+
+Artista
+{
+    color: orange;
+}

@@ -1,0 +1,80 @@
+Caratula
+{
+    width: 700px;
+    min-height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+Car
+{
+    background-image: url(/Actividades1-UT4/bigFish.png);
+    background-size: 100% 100%;
+}
+
+Peli
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding-bottom: 500px;  
+}
+
+Actores
+{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 10px;
+}
+
+Actor
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+Titulo
+{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 23px;
+    align-items: center;
+    padding: 70px;
+    font-size: 30px;
+}
+
+Descripcion
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+}
+
+@font-face {
+    font-family: 'Letras';
+    src: url('Playwrite_IN/PlaywriteIN-VariableFont_wght.ttf') format('woff2'),
+    url('Playwrite_IN/PlaywriteIN-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+Desc
+{
+    font-family: 'Letras';
+    color: yellow;
+}
+
+Cont
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 90%;
+}

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Ejercicio3.css"?>
+<CDMusica>
+    <Contenedor>
+    <Portada>
+        <URL></URL>
+    </Portada>
+    <Detalles>
+        <Info>
+            <i>ARTISTA:</i>
+            <i>TITULO:</i>
+            <i>SELLO:</i>
+            <i>REFERENCIA:</i>
+            <i>AÑO:</i>
+            <i>PAIS:</i>
+            <i>FORMATO:</i>
+            <i>GENERO:</i>
+            <i>ESTILO:</i>
+            <i>OBSERVACIONES:</i>
+        </Info>
+        <Info2>
+            <Artista>ABC (2)</Artista>
+            <Titulo>The Collection</Titulo>
+            <Sello>KARUSSELL INTERNATIONAL</Sello>
+            <Referencia>551 831-2</Referencia>
+            <Año>1996</Año>
+            <Pais>Germany</Pais>
+            <Formato>CD - Compilation</Formato>
+            <Genero>Funk / Soul, Electronic</Genero>
+            <Estilo>Funk Disco, Synth Pop</Estilo>
+            <Observaciones>Licensed from Mercury Records Ltd (London)</Observaciones>
+        </Info2>
+    </Detalles>
+    </Contenedor>
+    <Canciones>
+        <Disco>CD 1</Disco>
+        <Cancion>
+            <Numero>01</Numero>
+            <Nombre>Poison Arrow</Nombre>
+            <Duracion>03:23</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>02</Numero>
+            <Nombre>The Look Of Love (Part One)</Nombre>
+            <Duracion>03:29</Duracion>
+        </Cancion2>
+        <Cancion>
+            <Numero>03</Numero>
+            <Nombre>The Night You Murdered Love</Nombre>
+            <Duracion>04:53</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>04</Numero>
+            <Nombre>Tears Are Not Enough</Nombre>
+            <Duracion>03:29</Duracion>
+        </Cancion2>
+        <Cancion>
+            <Numero>05</Numero>
+            <Nombre>Be Near Me</Nombre>
+            <Duracion>03:37</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>06</Numero>
+            <Nombre>I'm In Love With You</Nombre>
+            <Duracion>04:35</Duracion>
+        </Cancion2>
+        <Cancion>
+            <Numero>07</Numero>
+            <Nombre>The Real Thing</Nombre>
+            <Duracion>04:54</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>08</Numero>
+            <Nombre>Love's A Dangerous Language</Nombre>
+            <Duracion>03:40</Duracion>
+        </Cancion2>
+        <Cancion>
+            <Numero>09</Numero>
+            <Nombre>The Greatest Love Of All</Nombre>
+            <Duracion>05:34</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>10</Numero>
+            <Nombre>When Smokey Sings</Nombre>
+            <Duracion>04:18</Duracion>
+        </Cancion2>
+        <Cancion>
+            <Numero>11</Numero>
+            <Nombre>One Better World</Nombre>
+            <Duracion>05:38</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>12</Numero>
+            <Nombre>Vanity Kills</Nombre>
+            <Duracion>03:29</Duracion>
+        </Cancion2>
+        <Cancion>
+            <Numero>13</Numero>
+            <Nombre>Bite The Hand</Nombre>
+            <Duracion>03:07</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>14</Numero>
+            <Nombre>Chicago (Abridget)</Nombre>
+            <Duracion>03:40</Duracion>
+        </Cancion2>
+        <Cancion>
+            <Numero>15</Numero>
+            <Nombre>Minneapolis</Nombre>
+            <Duracion>02:57</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>16</Numero>
+            <Nombre>Think Again</Nombre>
+            <Duracion>03:39</Duracion>
+        </Cancion2>
+        <Cancion>
+            <Numero>17</Numero>
+            <Nombre>Never More Than Now</Nombre>
+            <Duracion>06:03</Duracion>
+        </Cancion>
+        <Cancion2>
+            <Numero>18</Numero>
+            <Nombre>All Of My Heart</Nombre>
+            <Duracion>04:49</Duracion>
+        </Cancion2>
+    </Canciones>
+</CDMusica>
